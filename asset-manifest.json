@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/screen-size-getter/static/css/main.a1cdc299.css",
+    "main.js": "/screen-size-getter/static/js/main.d95faf1f.js",
+    "static/js/787.635aedaa.chunk.js": "/screen-size-getter/static/js/787.635aedaa.chunk.js",
+    "index.html": "/screen-size-getter/index.html",
+    "main.a1cdc299.css.map": "/screen-size-getter/static/css/main.a1cdc299.css.map",
+    "main.d95faf1f.js.map": "/screen-size-getter/static/js/main.d95faf1f.js.map",
+    "787.635aedaa.chunk.js.map": "/screen-size-getter/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1cdc299.css",
+    "static/js/main.d95faf1f.js"
+  ]
+}
